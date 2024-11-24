@@ -44,7 +44,7 @@ The purpose of this report is to simplify the process of analyzing key metrics a
 ---
 
 ## 📈 **Sample Visuals**  
-*(Include screenshots of your Power BI report if possible.)*  
+check sample.png
 
 ---
 
